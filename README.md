@@ -39,13 +39,17 @@ If you believe that your work has been copied in a way that constitutes copyrigh
 6. **Signature:** An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright interest.
 
 ## Designated DMCA Agent Contact Information
-<br/>
-### **support-checkout@safemarket.xyz**
-<br/>
-or
+
 <div align="center">
-  <a href="mailto:support-checkout@safemarket.xyz">
-    <img src="https://img.shields.io/badge/safemarket email-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <br/>
+  <button onclick="navigator.clipboard.writeText('support-checkout@safemarket.xyz')" style="font-weight:bold; padding:10px 20px; font-size:16px; background-color:#333333; color:white; border:none; cursor:pointer;">
+    📧 Copy Email
+  </button>
+  <br/><br/>
+  or
+  <br/><br/>
+  <a href="mailto:support-checkout@safemarket.xyz" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/SAFEMARKET%20EMAIL-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 </div>
 
