@@ -42,15 +42,13 @@ If you believe that your work has been copied in a way that constitutes copyrigh
 
 <div align="center">
   <br/>
-  <button onclick="navigator.clipboard.writeText('support-checkout@safemarket.xyz')" style="font-weight:bold; padding:10px 20px; font-size:16px; background-color:#333333; color:white; border:none; cursor:pointer;">
-    📧 Copy Email
-  </button>
+  <strong>📧 support-checkout@safemarket.xyz</strong>
   <br/><br/>
-  or
+  <span>OR</span>
   <br/><br/>
   <a href="mailto:support-checkout@safemarket.xyz" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/SAFEMARKET%20EMAIL-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+    <br/><br/>
 </div>
-
 By following these guidelines and respecting the intellectual property rights of others, we can ensure a respectful and legally compliant environment for all users of SafeMarket.xyz.
